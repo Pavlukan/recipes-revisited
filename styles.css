@@ -21,3 +21,13 @@ h2 {
     padding: 0 4%;
     border: 3px solid #DFD6A8;
 }
+
+a {
+    color: #DFD6A8;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #b6a55a; 
+}
