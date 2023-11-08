@@ -35,14 +35,16 @@ a {
     display: flex;
     flex-flow: column nowrap;
     align-items: center;
+    gap: 6px;
 
     color: #DFD6A8;
+
     text-decoration: none;
     transition: 0.3s;
 }
 
-a:hover {
-    color: #b6a55a; 
+a:hover { 
+    opacity: 0.7;
 }
 
 img {
