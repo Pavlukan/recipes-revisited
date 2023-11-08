@@ -22,7 +22,20 @@ h2 {
     border: 3px solid #DFD6A8;
 }
 
+.recipes-block {
+    padding: 0 2%;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    row-gap: 24px;
+}
+
 a {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+
     color: #DFD6A8;
     text-decoration: none;
     transition: 0.3s;
@@ -30,4 +43,10 @@ a {
 
 a:hover {
     color: #b6a55a; 
+}
+
+img {
+    display: block;
+    max-width: 60%;
+    height: auto;
 }
