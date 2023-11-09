@@ -60,3 +60,17 @@ img {
     border-radius: 10px;
     box-shadow: 0px 0px 12px 1px #000000;
 }
+
+footer {
+    text-align: center;
+    margin-top: 6%;
+    padding: 2%;
+
+    background-color: #222538;
+
+    box-shadow: 0px -1px 12px -1px #000000;
+}
+
+footer > a {
+    display: inline;
+}
