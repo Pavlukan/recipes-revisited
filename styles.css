@@ -1,6 +1,9 @@
 body {
     background-color: #2A2E45;
     color: #DFD6A8;
+
+    font-family: 'Josefin-Sans', sans-serif;
+    font-weight: 400;
 }
 
 h1, h2 {
