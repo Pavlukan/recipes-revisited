@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400&family=Oswald:wght@600&display=swap'); 
+
+/* Use @import rule because we are dealing with several web pages. No need to add <link> tags to every recipe web page. */
+
 body {
     background-color: #2A2E45;
     color: #DFD6A8;
