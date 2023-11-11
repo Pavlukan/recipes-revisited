@@ -40,6 +40,11 @@ ul, ol {
     box-sizing: border-box;
     width: 100%;
     margin: 0;
+
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    gap: 3px;
 }
 
 .recipes-block {
